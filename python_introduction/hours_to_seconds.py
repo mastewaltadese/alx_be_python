@@ -1,4 +1,4 @@
 #!/bin/bash
 hours = 2
-seconds = hours * 60 * 60
+seconds = 3600 * hours
 print("{} hour(s) is {} seconds.".format(hours,seconds))
