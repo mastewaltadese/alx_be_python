@@ -15,5 +15,5 @@ match operation:
         print(f"{num1} can't be divided by 0")
     elif num2 != 0:
         result = num1 / num2
-print("result is {}".format(result)
+print("result is {}".format(result))
 
