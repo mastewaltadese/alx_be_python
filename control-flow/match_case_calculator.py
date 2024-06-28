@@ -1,7 +1,7 @@
 #!/bin/bash
 num1 = int(input("Enter the first number:"))
 num2 = int(input("Enter the second number:"))
-operation = (input("hoose the operation (+, -, *, /):"))
+operation = (input("choose the operation (+, -, *, /):"))
 result = 0
 match operation:
   case "+":
