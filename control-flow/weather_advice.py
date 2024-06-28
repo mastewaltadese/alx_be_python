@@ -1,5 +1,5 @@
 #!/bin/bash
-wether = input("What's the weather like today? (sunny/rainy/cold):")
+wether = input("What's the weather like today? (sunny/rainy/cold):").lower()
 if wether == "sunny":
   print("Wear a t-shirt and sunglasses.")
 elif wether == "rainy":
