@@ -1,6 +1,6 @@
 #!/bin/bash
 num1 = int(input("Enter the first number:"))
-num2 = int(input("Enter the scond number:"))
+num2 = int(input("Enter the second number:"))
 operation = (input("hoose the operation (+, -, *, /):"))
 result = 0
 match operation:
